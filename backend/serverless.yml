@@ -1,0 +1,7 @@
+app: c2-financials
+component: express
+name: backend
+
+inputs:
+  src: ./
+  region: ca-central-1
